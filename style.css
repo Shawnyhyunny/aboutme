@@ -353,17 +353,17 @@ body{
         margin-left: 14px;
     }
     .valuewords{
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
     #valueword1{
-        padding: 0 8px;
+        padding: 0 12px;
     }
     #valueword2{
-        padding: 0 20px;
+        padding: 0 17px;
     }
     #valueword3{
         padding-left: 33px;
-        padding-right: 45px;
+        padding-right: 41px;
     }
     .footer {
         padding-left: 70px;
