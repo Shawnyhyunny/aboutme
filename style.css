@@ -48,6 +48,21 @@ h1:hover{
     transition-duration: 1s;
 }
 
+.name-title{
+    animation-name: slide;
+    animation-duration: 2s;
+    transition-timing-function: ease;
+}
+
+@keyframes slide {
+    from{
+        left: -650px;
+    }
+    to{
+        left: 0;
+    }
+}
+
 
 li{
     list-style-type: none;
