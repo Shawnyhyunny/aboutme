@@ -79,7 +79,7 @@ li{
 
 .valueimage{
     display: inline-block;
-    padding: 0.8%;
+    padding: 0.5%;
     justify-content: space-between;
 }
 
@@ -95,7 +95,7 @@ li{
     padding-right: 15px;
 }
 #valueword2{
-    padding-right: 30px;
+    padding-right: 18px;
 }
 #valueword3{
     padding-right: 18px;
